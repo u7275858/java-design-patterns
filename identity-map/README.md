@@ -1,9 +1,10 @@
 ---
 title: Identity Map
-categories: Data access
+category: Behavioral
 language: en
-tags:
+tag:
 - Performance
+- Data access
 ---
 
 ## Intent
